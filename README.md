@@ -14,3 +14,6 @@ Model Details:
 - Achieved over 95% accuracy on evaluating testing data
 
 5 Layered CNN
+
+Safe (sfw) : 1
+Not safe (nsfw) : 0
